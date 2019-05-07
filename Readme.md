@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Dmitri Tsjornoi](https://up.htmlacademy.ru/htmlcss/25/user/948825).
+* Студент: [Dmitri Tsjornoi 🚀](https://up.htmlacademy.ru/htmlcss/25/user/948825).
 * Наставник: [Максим Конов](https://htmlacademy.ru/profile/id206795).
 
 ---
